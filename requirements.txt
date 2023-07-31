@@ -1,0 +1,5 @@
+pip install undetected_chromedriver
+pip install selenium
+pip install request
+pip install time
+pip install sleep
